@@ -1,3 +1,3 @@
 this my first repo
 
-Testing my repo
+testing my first repo
